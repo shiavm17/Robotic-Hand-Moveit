@@ -1,0 +1,60 @@
+[0.032s] Invoking command in '/home/shivam/RoboticArm_ws/build/my_robot_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shivam/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/shivam/RoboticArm_ws/my_robot_moveit_config -DCMAKE_INSTALL_PREFIX=/home/shivam/RoboticArm_ws/install/my_robot_moveit_config
+[0.566s] -- The C compiler identification is GNU 11.4.0
+[1.040s] -- The CXX compiler identification is GNU 11.4.0
+[1.074s] -- Detecting C compiler ABI info
+[1.411s] -- Detecting C compiler ABI info - done
+[1.411s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.411s] -- Detecting C compile features
+[1.412s] -- Detecting C compile features - done
+[1.412s] -- Detecting CXX compiler ABI info
+[1.753s] -- Detecting CXX compiler ABI info - done
+[1.840s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.840s] -- Detecting CXX compile features
+[1.841s] -- Detecting CXX compile features - done
+[1.841s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.271s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.854s] -- Configuring done
+[2.855s] -- Generating done
+[2.864s] -- Build files have been written to: /home/shivam/RoboticArm_ws/build/my_robot_moveit_config
+[2.885s] Invoked command in '/home/shivam/RoboticArm_ws/build/my_robot_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shivam/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/shivam/RoboticArm_ws/my_robot_moveit_config -DCMAKE_INSTALL_PREFIX=/home/shivam/RoboticArm_ws/install/my_robot_moveit_config
+[2.888s] Invoking command in '/home/shivam/RoboticArm_ws/build/my_robot_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shivam/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/shivam/RoboticArm_ws/build/my_robot_moveit_config -- -j2 -l2
+[3.138s] Invoked command in '/home/shivam/RoboticArm_ws/build/my_robot_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shivam/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/shivam/RoboticArm_ws/build/my_robot_moveit_config -- -j2 -l2
+[3.139s] Invoking command in '/home/shivam/RoboticArm_ws/build/my_robot_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shivam/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/shivam/RoboticArm_ws/build/my_robot_moveit_config
+[3.220s] -- Install configuration: ""
+[3.234s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/ament_index/resource_index/package_run_dependencies/my_robot_moveit_config
+[3.256s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/ament_index/resource_index/parent_prefix_path/my_robot_moveit_config
+[3.263s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/environment/ament_prefix_path.sh
+[3.263s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/environment/ament_prefix_path.dsv
+[3.281s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/environment/path.sh
+[3.281s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/environment/path.dsv
+[3.281s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/local_setup.bash
+[3.281s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/local_setup.sh
+[3.281s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/local_setup.zsh
+[3.281s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/local_setup.dsv
+[3.282s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/package.dsv
+[3.282s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/ament_index/resource_index/packages/my_robot_moveit_config
+[3.282s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/cmake/my_robot_moveit_configConfig.cmake
+[3.282s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/cmake/my_robot_moveit_configConfig-version.cmake
+[3.282s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/package.xml
+[3.282s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/launch
+[3.282s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/launch/rsp.launch.py
+[3.282s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/launch/warehouse_db.launch.py
+[3.282s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/launch/demo.launch.py
+[3.282s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/launch/move_group.launch.py
+[3.282s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/launch/moveit_rviz.launch.py
+[3.282s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/launch/spawn_controllers.launch.py
+[3.282s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/launch/static_virtual_joint_tfs.launch.py
+[3.283s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/launch/setup_assistant.launch.py
+[3.283s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/config
+[3.283s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/config/pilz_cartesian_limits.yaml
+[3.283s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/config/moveit_controllers.yaml
+[3.293s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/config/ros2_controllers.yaml
+[3.294s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/config/joint_limits.yaml
+[3.294s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/config/my_robot.srdf
+[3.300s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/config/kinematics.yaml
+[3.300s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/config/my_robot.urdf.xacro
+[3.300s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/config/moveit.rviz
+[3.300s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/config/initial_positions.yaml
+[3.301s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/config/my_robot.ros2_control.xacro
+[3.301s] -- Installing: /home/shivam/RoboticArm_ws/install/my_robot_moveit_config/share/my_robot_moveit_config/.setup_assistant
+[3.318s] Invoked command in '/home/shivam/RoboticArm_ws/build/my_robot_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shivam/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/shivam/RoboticArm_ws/build/my_robot_moveit_config
