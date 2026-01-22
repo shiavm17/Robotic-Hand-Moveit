@@ -256,7 +256,7 @@ This project is provided as-is for educational and development purposes.
 
 ## ✍️ Author
 
-Created as a complete ROS 2 robotic arm simulation with integrated object holder for picking and placing applications.
+Created as a complete ROS 2 robotic 6 axis arm simulation with integrated object holder for picking and placing applications.
 
 ---
 
