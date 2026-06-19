@@ -260,5 +260,5 @@ Created as a complete ROS 2 robotic 6 axis arm simulation with integrated object
 
 ---
 
-**Status:** ✅ Fully Functional with MoveIt2 Integration
-**My Linkedin:** https://www.linkedin.com/in/shivam-rgipt/
+1. **Status:** ✅ Fully Functional with MoveIt2 Integration
+2. **My Linkedin:** https://www.linkedin.com/in/shivam-rgipt/
